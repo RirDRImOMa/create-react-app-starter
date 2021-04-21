@@ -1,0 +1,7 @@
+{
+  "$schema": "./config/prettierrc.schema.json",
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": true
+}
